@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="12.478" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Test funcationality of login" name="check this scenario with inValid data" time="12.337">
+<system-out><![CDATA[
+Given user enter correct email..............................................passed
+When user enter wrong email.................................................passed
+And user click in button of login...........................................passed
+Then user check the wrong message will appear...............................passed
+]]></system-out>
+</testcase>
+</testsuite>
